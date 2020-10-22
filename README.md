@@ -1,2 +1,2 @@
 # CODES
- It contains the small pprograms of c++ 
+ It contains the small programs of c++ 
